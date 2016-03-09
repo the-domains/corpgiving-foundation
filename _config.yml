@@ -1,0 +1,28 @@
+name: CorpGiving Foundation
+favicon: null
+layout_spectrum: 0.9922467046417296
+typography_spectrum: 0.24955059890635312
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.16194693255238235
+  lightness: 0.22713752277195454
+  saturation: 0.33820484136231244
+  rhythmicContrast: 0.91520552826114
+purpose: []
